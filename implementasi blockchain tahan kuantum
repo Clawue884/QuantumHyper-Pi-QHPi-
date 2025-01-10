@@ -1,0 +1,18 @@
+Berikut adalah implementasi blockchain tahan kuantum yang menggabungkan teknologi blockchain dengan kriptografi tahan kuantum menggunakan algoritma seperti Post-Quantum Cryptography (PQC). Dalam implementasi ini, kita akan menggunakan beberapa konsep dasar blockchain (seperti blok, hash, dan transaksi), tetapi dengan kriptografi yang tahan terhadap serangan komputasi kuantum.
+
+Untuk tujuan ini, kita akan menggunakan Python dan PyCryptodome untuk kriptografi klasik dan menggunakan PyCryptodome untuk mengimulasikan beberapa aspek kriptografi tahan kuantum. Sementara itu, untuk implementasi yang lebih canggih dan siap digunakan, kita bisa memperkenalkan algoritma seperti Kyber, FrodoKEM, atau NTRU yang merupakan algoritma kriptografi tahan kuantum yang sudah diuji.
+
+
+---
+
+Struktur Direktori
+
+blockchain/
+├── blockchain.py             # Implementasi dasar blockchain
+├── quantum_crypto.py         # Algoritma kriptografi tahan kuantum
+├── transaction.py            # Pengelolaan transaksi
+├── block.py                  # Implementasi blok blockchain
+└── utils.py                  # Fungsi utilitas
+
+
+---
