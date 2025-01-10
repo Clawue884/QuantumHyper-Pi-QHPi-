@@ -1,0 +1,11 @@
+Struktur Direktori
+
+ai/
+├── model_training.py         # Skrip untuk melatih model AI
+├── price_prediction.py       # Prediksi harga menggunakan model AI
+├── stabilization.py          # Logika stabilisasi nilai stablecoin
+├── utils.py                  # Fungsi utilitas untuk pengolahan data
+└── data/                     # Dataset untuk melatih model AI
+
+
+---
