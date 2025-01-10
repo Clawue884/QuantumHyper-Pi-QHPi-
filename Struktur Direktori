@@ -1,0 +1,5 @@
+contracts/
+├── QHPiStablecoin.sol         # Kontrak utama untuk stablecoin
+├── GovernanceDAO.sol          # Kontrak tata kelola desentralisasi
+├── Interoperability.sol       # Kontrak interoperabilitas lintas blockchain
+└── QuantumSecureLib.sol       # Pustaka kriptografi tahan kuantum
